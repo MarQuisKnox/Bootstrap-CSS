@@ -1,2 +1,2 @@
 # Bootstrap-CSS
-Individual Bootstrap CSS Componnets
+Individual Bootstrap CSS Components
