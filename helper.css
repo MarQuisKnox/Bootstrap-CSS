@@ -67,3 +67,9 @@ a.thumbnail.active {
 .img-circle {
     border-radius: 50%;
 }
+
+.page-header {
+    border-bottom: 1px solid #eee;
+    margin: 40px 0 20px;
+    padding-bottom: 9px;
+}
